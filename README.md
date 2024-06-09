@@ -14,7 +14,7 @@ This is a simple Todo List application built using React.js and deployed on Netl
 
 ## Demo
 
-Check out the live demo of the Todo List application: [Live Demo](https://your-netlify-url.netlify.app)
+Check out the live demo of the Todo List application: [Live Demo](https://todo-w-reactjs.netlify.app/)
 
 ## Features
 
@@ -59,7 +59,7 @@ To get a local copy of this project up and running, follow these simple steps.
    npm run dev
    ```
 
-2. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+2. Open your browser and navigate to `http://localhost:5173` to see the application in action.
 
 ### Building for Production
 
